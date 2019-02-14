@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    position: fixed;
+    display: block;
+    width: 100%;
+    text-align: right;
+    padding: 10px;
+    background: aqua;
+}
+.main{
+    display: block;
+    background: beige;
+    top: 38px;
+    position: relative;
+    padding: 5px;
+}
